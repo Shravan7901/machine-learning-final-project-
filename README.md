@@ -97,7 +97,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-##  Report Format Reference
 
-This submission follows guidelines inspired by academic ML conferences like:  
-**[ICML](https://icml.cc/)** and **[AAAI](https://aaai.org/)**
